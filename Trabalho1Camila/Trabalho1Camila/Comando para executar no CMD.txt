@@ -1,0 +1,6 @@
+1° PASSO: cd C:\Users\JOAO PAULO\Desktop\Projetos De Software\Trabalho1Camila\src
+
+2° PASSO: javac -cp ".;mysql-connector-j-9.3.0.jar;mssql-jdbc-12.10.0.jre11.jar" *.java
+
+
+3° PASSO: java -cp ".;mysql-connector-j-9.3.0.jar;mssql-jdbc-12.10.0.jre11.jar" Main
